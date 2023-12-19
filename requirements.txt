@@ -1,4 +1,4 @@
-demucs=4.0.1
-streamlit=1.29.0
-torchaudio=2.1.1
-torch=2.1.1
+demucs==4.0.1
+streamlit==1.29.0
+torchaudio==2.1.1
+torch==2.1.1
